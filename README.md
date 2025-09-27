@@ -10,7 +10,7 @@
 
 *A comprehensive data-driven analysis of startup fundraising trends, investor behavior, and market dynamics*
 
-[View Notebook](Startup_Fundraising_EDA-3.ipynb) • [Dataset](startup_funding.csv) • [Report Issues](../../issues)
+[View Notebook](https://github.com/sahilalaknur21/Startup-Fundraising-Exploratory-Data-Analysis-EDA-/blob/main/Startup_Funding_EDA.ipynb) • [Dataset Info](#dataset-information) • [Report Issues](https://github.com/sahilalaknur21/Startup-Fundraising-Exploratory-Data-Analysis-EDA-/issues)
 
 </div>
 
@@ -56,10 +56,10 @@ This project presents an in-depth **Exploratory Data Analysis (EDA)** of startup
 
 startup-fundraising-eda/
 │
-├── 📊 Startup_Fundraising_EDA-3.ipynb # Main analysis notebook
+├── 📊 Startup_Funding_EDA.ipynb # Main analysis notebook
 ├── 📄 startup_funding.csv # Dataset
 ├── 📋 README.md # Project documentation
-└── 📜 LICENSE # MIT License
+
 
 
 ---
