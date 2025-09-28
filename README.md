@@ -6,7 +6,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange.svg)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-red.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 *A comprehensive data-driven analysis of startup fundraising trends, investor behavior, and market dynamics*
 
