@@ -1,4 +1,10 @@
-# 📊 Startup Fundraising Exploratory Data Analysis
+<div align="center">
+
+<!-- HERO HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,19&height=200&section=header&text=📊%20Startup%20Fundraising%20EDA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Extensive%20EDA%20And%20Feature%20Engineering&descSize=18&descAlignY=55" width="100%"/>
+
+</div>
+
 
 <div align="center">
 
@@ -150,7 +156,7 @@ Upload notebook to Colab and run all cells
 
 ## 📸 Sample Visualizations
 
-<div align="center">
+
 
 ### 📈 Investment Trends Over Time
 *Temporal analysis showing funding volume and deal frequency patterns*
@@ -164,7 +170,7 @@ Upload notebook to Colab and run all cells
 ### 🗺️ Geographic Investment Heatmap
 *City and region-wise startup ecosystem mapping*
 
-</div>
+
 
 > **Note**: All visualizations are optimized for GitHub rendering using static plot generation with Matplotlib and Seaborn
 
@@ -225,7 +231,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 🙏 Acknowledgments
 
-- Dataset sourced from startup funding databases
+- Dataset sourced from Kaggle Dataset
 - Inspired by data science best practices and industry standards
 - Built with ❤️ for the startup and investment community
 - Special thanks to the open-source Python ecosystem
