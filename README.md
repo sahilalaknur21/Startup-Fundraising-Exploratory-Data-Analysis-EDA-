@@ -59,11 +59,12 @@ This project presents an in-depth **Exploratory Data Analysis (EDA)** of startup
 
 ## 📁 Project Structure
 
-startup-fundraising-eda/
-│
-├── 📊 Startup_Funding_EDA.ipynb # Main analysis notebook
-├── 📄 startup_funding.csv # Dataset
-├── 📋 README.md # Project documentation
+| Component | Type | Description |
+| :--- | :--- | :--- |
+| **startup-fundraising-eda/** | ![Root](https://img.shields.io/badge/-Root_Directory-424242?style=flat&logo=folder&logoColor=white) | The main repository folder. |
+| `Startup_Funding_EDA.ipynb` | ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white) | Main analysis code, data cleaning, and visualizations. |
+| `startup_funding.csv` | ![CSV](https://img.shields.io/badge/-Dataset_(CSV)-2BAF2B?style=flat&logo=pandas&logoColor=white) | Raw dataset containing startup funding records. |
+| `README.md` | ![Markdown](https://img.shields.io/badge/-Documentation-000000?style=flat&logo=markdown&logoColor=white) | Project overview, setup instructions, and insights. |
 
 
 
