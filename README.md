@@ -222,12 +222,25 @@ Contributions are welcome! Here's how you can help:
 
 <div align="center">
 
-**📊 Turning Data into Actionable Startup Intelligence**
-
-*Made with 🐍 Python • Powered by 📊 Data Science • Built for 🚀 Innovation*
-
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://python.org)
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
+  <br />
+  <h3>📊 Turning Data into Actionable Startup Intelligence</h3>
+  <p>
+    <em>Built for Innovation • Driven by Data Science • Crafted with Python</em>
+  </p>
+  
+  <p>
+    <a href="https://python.org">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </a>
+    <a href="https://jupyter.org">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge" alt="Status" />
+    </a>
+  </p>
+  
+  <sub>Licenced under MIT • © 2025</sub>
+  <br />
 
 </div>
-
