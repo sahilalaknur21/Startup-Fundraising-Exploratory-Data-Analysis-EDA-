@@ -222,8 +222,6 @@ Contributions are welcome! Here's how you can help:
 
 <div align="center">
 
-<br>
-
 **📊 Turning Data into Actionable Startup Intelligence**
 
 *Made with 🐍 Python • Powered by 📊 Data Science • Built for 🚀 Innovation*
@@ -237,11 +235,11 @@ Contributions are welcome! Here's how you can help:
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-%232f3640.svg?style=flat&logo=jupyter&logoColor=white">
 </a>
 
-<br><br>
+<br>
 
 *Built with ❤️ for the startup ecosystem*
 
-<br><br>
+<br>
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,19&height=120&section=footer" width="100%"/>
