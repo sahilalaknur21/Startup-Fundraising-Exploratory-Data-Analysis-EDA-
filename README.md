@@ -222,9 +222,6 @@ Contributions are welcome! Here's how you can help:
 
 <div align="center">
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,19&height=120&section=footer" width="100%"/>
-
 <br>
 
 **📊 Turning Data into Actionable Startup Intelligence**
@@ -243,5 +240,10 @@ Contributions are welcome! Here's how you can help:
 <br><br>
 
 *Built with ❤️ for the startup ecosystem*
+
+<br><br>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,19&height=120&section=footer" width="100%"/>
 
 </div>
