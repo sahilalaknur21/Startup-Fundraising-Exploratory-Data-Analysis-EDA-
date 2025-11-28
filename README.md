@@ -222,18 +222,22 @@ Contributions are welcome! Here's how you can help:
 
 <div align="center">
 
-  <br/>
-  <h3>📊 Turning Data into Actionable Startup Intelligence</h3>
-  <p><em>Made with 🐍 Python • Powered by 📊 Data Science • Built for 🚀 Innovation</em></p>
+<!-- HERO HEADER (Gradient-Matched) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,19&height=200&section=header&text=📊%20Startup%20Fundraising%20EDA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Extensive%20EDA%20And%20Feature%20Engineering&descSize=18&descAlignY=55" width="100%"/>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=121212,181818,191919&height=100&section=footer" width="100%"/>
+<!-- SUBHEADER + BADGES (Gradient-Matched) -->
+<br>
+<b>Unlocking Funding Insights Through Data Exploration</b>  
+<i>Made with 🐍 Python • Driven by 📊 Data Science • Designed for 🚀 Innovators</i>
+<br><br>
+<a href="https://python.org">
+  <img alt="Made with Python" src="https://img.shields.io/badge/Python-%231a1a2e.svg?style=flat&logo=python&logoColor=white">
+</a>
+<a href="https://jupyter.org">
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-%232f3640.svg?style=flat&logo=jupyter&logoColor=white">
+</a>
+<a href="#">
+  <img alt="EDA" src="https://img.shields.io/badge/EDA-%23322d63.svg?style=flat&logo=data&logoColor=white">
+</a>
 
 </div>
-
