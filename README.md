@@ -223,7 +223,6 @@ Contributions are welcome! Here's how you can help:
 <div align="center">
 
   <br/>
-  
   <h3>📊 Turning Data into Actionable Startup Intelligence</h3>
   <p><em>Made with 🐍 Python • Powered by 📊 Data Science • Built for 🚀 Innovation</em></p>
 
@@ -234,6 +233,7 @@ Contributions are welcome! Here's how you can help:
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,19&height=100&section=footer&fontSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=121212,181818,191919&height=100&section=footer" width="100%"/>
 
 </div>
+
