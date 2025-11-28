@@ -104,31 +104,12 @@ The analysis utilizes a comprehensive startup funding dataset containing:
 
 ## 🚀 Quick Start
 
-### 1️⃣ **Clone Repository**
-git clone https://github.com/sahilalaknur21/startup-fundraising-eda.git
-cd startup-fundraising-eda
-
-
-### 2️⃣ **Setup Environment**
-Install required packages
-pip install pandas numpy matplotlib seaborn plotly jupyter
-
-Or create virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-
-### 3️⃣ **Add Dataset**
-- Ensure your `startup_funding.csv` file is in the root directory
-- The CSV should follow the expected schema (see Dataset Information above)
-
-### 4️⃣ **Run Analysis**
-Launch Jupyter Notebook
-jupyter notebook Startup_Fundraising_EDA-3.ipynb
-
-Or use Google Colab
-Upload notebook to Colab and run all cells
+| Step | Instructions |
+| :--- | :--- |
+| **1️⃣ Clone Repository** | `git clone https://github.com/sahilalaknur21/startup-fundraising-eda.git`<br>`cd startup-fundraising-eda` |
+| **2️⃣ Setup Environment** | `pip install pandas numpy matplotlib seaborn plotly jupyter`<br>_Or:_ `python -m venv venv` (activate & install requirements) |
+| **3️⃣ Add Dataset** | Place `startup_funding.csv` in the **root directory**.<br>Ensure it matches the expected schema. |
+| **4️⃣ Run Analysis** | `jupyter notebook Startup_Fundraising_EDA-3.ipynb`<br>_Or upload the notebook to Google Colab_ |
 
 
 ---
